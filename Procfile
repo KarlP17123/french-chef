@@ -1,0 +1,1 @@
+web: gunicorn french_chef.wsgi
